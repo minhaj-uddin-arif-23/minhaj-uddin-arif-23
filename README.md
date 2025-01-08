@@ -1,6 +1,6 @@
 ![Building Amazing Frontends | Learning Backend Fundamentals](https://media.licdn.com/dms/image/v2/D5616AQHh5coTIQ0x-g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722488953277?e=1741824000&v=beta&t=9PsM9OxXpHSxYwOEVvG7Cb2XKfLAooeRdoOtcvEoDCY)
 
-# Hi there 👋,## My name is Minhaj uddin Arif
+# Hi there 👋, My name is Minhaj uddin Arif
 
 #### Building Amazing Frontends | Learning Backend Fundamentals
 
