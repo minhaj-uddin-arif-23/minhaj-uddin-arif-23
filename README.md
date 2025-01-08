@@ -1,6 +1,7 @@
 ### Hi there 👋, My name is Minhaj uddin Arif
-#### Building Amazing Frontends | Learning Backend Fundamentals
 ![Building Amazing Frontends | Learning Backend Fundamentals](https://media.licdn.com/dms/image/v2/D5616AQHh5coTIQ0x-g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722488953277?e=1741824000&v=beta&t=9PsM9OxXpHSxYwOEVvG7Cb2XKfLAooeRdoOtcvEoDCY)
+#### Building Amazing Frontends | Learning Backend Fundamentals
+
 
 Hi, I'm Arif, a passionate Frontend Developer with a strong foundation in building responsive and user-friendly web interfaces. I specialize in crafting beautiful, efficient, and scalable frontends using modern tools and frameworks like HTML5, CSS3, JavaScript, React, Tailwind CSS, and DaisyUI.
 
