@@ -54,11 +54,11 @@ Skills: HTML5, CSS3, JavaScript, TypeScript / React, Tailwind CSS, DaisyUI, Flow
 <h2 align="center">Connect & Collaborate</h2>
 <div align="center">
 <a href="https://www.linkedin.com/in/minhaj-uddin-arif-4321b0258/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/13480/13480311.png" width="52" height="40" alt="LinkedIn logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
 </a>
 <a href="arifk62901@gmail.com" target="_blank">
 
-  <img src="https://cdn-icons-png.flaticon.com/128/12868/12868600.png" width="52" height="40" alt="gmail logo"  />
+  <img src="https://cdn-icons-png.flaticon.com/128/12868/12868600.png" clas width="52" height="40" alt="gmail logo"  />
 </a>
 
 <a href=" https://discord.com/users/1324196130627780639 " target="_blank">
@@ -67,7 +67,7 @@ Skills: HTML5, CSS3, JavaScript, TypeScript / React, Tailwind CSS, DaisyUI, Flow
 </a>
 
   <a href="https://t.me/Minhaj_Uddin_Arif" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/128/356/356028.png" width="52" height="40" alt="telegram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
 
   </a>
 </div>
