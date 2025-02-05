@@ -11,8 +11,11 @@ While my primary expertise lies in frontend development, I’m actively explorin
 Skills: HTML5, CSS3, JavaScript, TypeScript / React, Tailwind CSS, DaisyUI, Flowbit Node.js, Express.js, Firebase (beginner), MongoDB (NoSQL)
 
 - 🔭 I’m currently working on Full Stack Project 
-- 🌱 I’m currently learning TypeScript 
+-🌱 I am  Currently exploring Next.js with TypeScript to enhance my skills.
+-❓ Feel free to ask me anything about the MERN stack and its ecosystem.
 - 👯 I’m looking to collaborate on github
+- 🚀 Always eager to learn new technologies and stay updated.
+-💡 Passionate about problem-solving and building scalable applications.
 - <h2 align="center">I develop using</h2>
 
 ###
