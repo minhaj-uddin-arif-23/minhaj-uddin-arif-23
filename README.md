@@ -1,4 +1,7 @@
-![Building Amazing Frontends | Learning Backend Fundamentals](https://media.licdn.com/dms/image/v2/D5616AQHh5coTIQ0x-g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722488953277?e=1741824000&v=beta&t=9PsM9OxXpHSxYwOEVvG7Cb2XKfLAooeRdoOtcvEoDCY)
+
+<div align="center">
+  <img height="300" src="https://media.licdn.com/dms/image/v2/D5616AQEmiNSZGV4Gyg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738763005304?e=1744243200&v=beta&t=v7fuLpxj7U7CEyaqicwDh-aVj0IA103weW4tSuNdv0o"  />
+</div>
 
 # Hi there 👋, My name is Minhaj uddin Arif
 
