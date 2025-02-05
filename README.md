@@ -8,7 +8,7 @@ Hi, I'm Arif, a passionate Full stack web Developer with a strong foundation in 
 
 While my primary expertise lies in frontend development, I’m actively exploring the backend side with technologies like Node.js, Express, MongoDB, and Firebase, aiming to bridge the gap between the client and server.
 
-Skills: HTML5, CSS3, JavaScript, TypeScript / React, Tailwind CSS, DaisyUI, Flowbit Node.js, Express.js, Firebase (beginner), MongoDB (NoSQL)
+
 
 - 🔭 I’m currently working on Full Stack Project 
 -🌱 I am  Currently exploring Next.js with TypeScript to enhance my skills.
