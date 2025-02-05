@@ -1,6 +1,7 @@
 
+
 <div align="center">
-  <img height="300" src="https://media.licdn.com/dms/image/v2/D5616AQEmiNSZGV4Gyg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738763005304?e=1744243200&v=beta&t=v7fuLpxj7U7CEyaqicwDh-aVj0IA103weW4tSuNdv0o"  />
+  <img height="270" src="https://media.licdn.com/dms/image/v2/D5616AQEmiNSZGV4Gyg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738763005304?e=1744243200&v=beta&t=v7fuLpxj7U7CEyaqicwDh-aVj0IA103weW4tSuNdv0o"  />
 </div>
 
 # Hi there 👋, My name is Minhaj uddin Arif
