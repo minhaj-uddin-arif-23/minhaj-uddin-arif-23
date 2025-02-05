@@ -69,6 +69,11 @@ Skills: HTML5, CSS3, JavaScript, TypeScript / React, Tailwind CSS, DaisyUI, Flow
 <a href="https://www.linkedin.com/in/minhaj-uddin-arif-4321b0258/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
 </a>
+  
+<a href=" https://github.com/minhaj-uddin-arif-23" target="_blank">
+
+  <img src="https://cdn-icons-png.flaticon.com/128/919/919847.png" width="52" height="40" alt="github logo"  />
+</a>
 <a href="mailto:arifk62901@gmail.com" target="_blank">
 
   <img src="https://cdn-icons-png.flaticon.com/128/12868/12868600.png" clas width="52" height="40" alt="gmail logo"  />
