@@ -103,5 +103,3 @@ Skills: HTML5, CSS3, JavaScript, TypeScript / React, Tailwind CSS, DaisyUI, Flow
 
 
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/minhaj-uddin-arif-23/contributions?format=svg&private=false)  
-
