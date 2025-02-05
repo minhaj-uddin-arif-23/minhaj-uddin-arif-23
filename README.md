@@ -82,10 +82,7 @@ Skills: HTML5, CSS3, JavaScript, TypeScript / React, Tailwind CSS, DaisyUI, Flow
  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 
-<a href=" https://discord.com/users/1324196130627780639 " target="_blank">
 
-  <img src="https://cdn-icons-png.flaticon.com/128/3670/3670157.png" width="52" height="40" alt="discord logo"  />
-</a>
 
   <a href="https://t.me/Minhaj_Uddin_Arif" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
