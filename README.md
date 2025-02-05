@@ -74,10 +74,7 @@ Skills: HTML5, CSS3, JavaScript, TypeScript / React, Tailwind CSS, DaisyUI, Flow
 
   <img src="https://cdn-icons-png.flaticon.com/128/919/919847.png" width="52" height="40" alt="github logo"  />
 </a>
-<a href="mailto:arifk62901@gmail.com" target="_blank">
 
-  <img src="https://cdn-icons-png.flaticon.com/128/12868/12868600.png" clas width="52" height="40" alt="gmail logo"  />
-</a>
  <a href="https://x.com/ArifUarif1933" target="_blank">
  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
