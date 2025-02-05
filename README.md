@@ -2,7 +2,6 @@
 
 # Hi there 👋, My name is Minhaj uddin Arif
 
-#### Building Amazing Frontends | Learning Backend Fundamentals
 
 
 Hi, I'm Arif, a passionate Full stack web Developer with a strong foundation in building responsive and user-friendly web interfaces. I specialize in crafting beautiful, efficient, and scalable frontends using modern tools and frameworks like HTML5, CSS3, JavaScript, React, Tailwind CSS, and DaisyUI.
