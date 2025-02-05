@@ -109,5 +109,9 @@ Skills: HTML5, CSS3, JavaScript, TypeScript / React, Tailwind CSS, DaisyUI, Flow
 
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/minhaj-uddin-arif-23/contributions?format=svg&private=false) 
+<div align="center">
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
 
 
