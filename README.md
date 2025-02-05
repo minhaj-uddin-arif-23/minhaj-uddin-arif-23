@@ -14,7 +14,7 @@ Skills: HTML5, CSS3, JavaScript, TypeScript / React, Tailwind CSS, DaisyUI, Flow
 - 🔭 I’m currently working on Full Stack Project 
 - 🌱 I’m currently learning TypeScript 
 - 👯 I’m looking to collaborate on github
-- <h2 align="left">I code with</h2>
+- <h2 align="center">I develop using</h2>
 
 ###
 
