@@ -93,17 +93,17 @@ While my primary expertise lies in frontend development, I’m actively explorin
 <h2 align='left'> My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
  
  <div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lauragift21" alt="Gift's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lauragift21&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhaj-uddin-arif-23" alt="Gift's LangStat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhaj-uddin-arif-23&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
 </div>
 <details>
   <summary><b>:zap: GitHub Profile Stat</b></summary>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=lauragift21&show_icons=true" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=minhaj-uddin-arif-23&show_icons=true" />
 </details>
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/lauragift21/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lauragift21&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/lauragift21/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=minhaj-uddin-arif-23&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 </details>
 
@@ -111,7 +111,7 @@ While my primary expertise lies in frontend development, I’m actively explorin
 
 <!-- Profile Views -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lauragift21&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=minhaj-uddin-arif-23&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
  
